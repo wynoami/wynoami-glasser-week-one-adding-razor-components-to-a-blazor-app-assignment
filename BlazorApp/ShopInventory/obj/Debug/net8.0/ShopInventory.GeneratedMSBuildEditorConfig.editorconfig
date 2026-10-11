@@ -13,35 +13,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = ShopInventory
 build_property.RootNamespace = ShopInventory
-build_property.ProjectDir = /workspaces/wd1350-assignment-adding-razor-components-to-a-blazor-application/BlazorApp/ShopInventory/
+build_property.ProjectDir = /home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /workspaces/wd1350-assignment-adding-razor-components-to-a-blazor-application/BlazorApp/ShopInventory
+build_property.MSBuildProjectDirectory = /home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory
 build_property._RazorSourceGeneratorDebug = 
 
-[/workspaces/wd1350-assignment-adding-razor-components-to-a-blazor-application/BlazorApp/ShopInventory/App.razor]
+[/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/wd1350-assignment-adding-razor-components-to-a-blazor-application/BlazorApp/ShopInventory/Pages/Home.razor]
+[/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/wd1350-assignment-adding-razor-components-to-a-blazor-application/BlazorApp/ShopInventory/Pages/Products.razor]
+[/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/Pages/Products.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/wd1350-assignment-adding-razor-components-to-a-blazor-application/BlazorApp/ShopInventory/_Imports.razor]
+[/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/wd1350-assignment-adding-razor-components-to-a-blazor-application/BlazorApp/ShopInventory/Layout/MainLayout.razor]
+[/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-4vqs5pg3dp
 
-[/workspaces/wd1350-assignment-adding-razor-components-to-a-blazor-application/BlazorApp/ShopInventory/Layout/NavMenu.razor]
+[/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-dc6j4vmmsm

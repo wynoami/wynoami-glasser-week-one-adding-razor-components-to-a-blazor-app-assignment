@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/obj/Debug/net8.0/compressed/ims5ejxdgt.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/obj/Debug/net8.0/scopedcss/bundle/ShopInventory.styles.css",
+      "PackagePath": "staticwebassets/ShopInventory.styles.css"
+    },
+    {
+      "Id": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/wwwroot/sample-data/products.json",
+      "PackagePath": "staticwebassets/sample-data/products.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ShopInventory.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ShopInventory.props",
+      "PackagePath": "build\\ShopInventory.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ShopInventory.props",
+      "PackagePath": "buildMultiTargeting\\ShopInventory.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ShopInventory.props",
+      "PackagePath": "buildTransitive\\ShopInventory.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

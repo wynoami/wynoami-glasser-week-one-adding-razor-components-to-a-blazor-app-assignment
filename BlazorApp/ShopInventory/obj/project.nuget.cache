@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B4pSn63Xc6w=",
+  "dgSpecHash": "g7tN6BKAN3Q=",
   "success": true,
-  "projectFilePath": "/workspaces/wd1350-assignment-adding-razor-components-to-a-blazor-application/BlazorApp/ShopInventory/ShopInventory.csproj",
+  "projectFilePath": "/home/vscode/wynoami-glasser-week-one-adding-razor-components-to-a-blazor-app-assignment/BlazorApp/ShopInventory/ShopInventory.csproj",
   "expectedPackageFiles": [
     "/home/vscode/.nuget/packages/microsoft.aspnetcore.authorization/8.0.6/microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
     "/home/vscode/.nuget/packages/microsoft.aspnetcore.components/8.0.6/microsoft.aspnetcore.components.8.0.6.nupkg.sha512",
@@ -28,12 +28,12 @@
     "/home/vscode/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/home/vscode/.nuget/packages/microsoft.jsinterop/8.0.6/microsoft.jsinterop.8.0.6.nupkg.sha512",
     "/home/vscode/.nuget/packages/microsoft.jsinterop.webassembly/8.0.6/microsoft.jsinterop.webassembly.8.0.6.nupkg.sha512",
-    "/home/vscode/.nuget/packages/microsoft.net.illink.tasks/8.0.10/microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
-    "/home/vscode/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.10/microsoft.net.sdk.webassembly.pack.8.0.10.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.net.illink.tasks/8.0.23/microsoft.net.illink.tasks.8.0.23.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.23/microsoft.net.sdk.webassembly.pack.8.0.23.nupkg.sha512",
     "/home/vscode/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/home/vscode/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/home/vscode/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
-    "/home/vscode/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.10/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.10.nupkg.sha512"
+    "/home/vscode/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.23/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.23.nupkg.sha512"
   ],
   "logs": []
 }

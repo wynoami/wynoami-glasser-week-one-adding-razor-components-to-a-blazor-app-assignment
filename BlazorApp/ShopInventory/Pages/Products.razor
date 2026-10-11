@@ -38,4 +38,9 @@ else
 
 @code {
     private Product[]? products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await Http.GetFromJsonAsync<Product[]>("sample-data/products.json");
+    }
 }
