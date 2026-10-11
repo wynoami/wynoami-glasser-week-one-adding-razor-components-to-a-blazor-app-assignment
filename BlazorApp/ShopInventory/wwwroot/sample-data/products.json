@@ -1,0 +1,32 @@
+﻿[
+  {
+    "id": 1,
+    "title": "Gaming Console",
+    "description": "A console for playing your favorite video games.",
+    "Price": 699.99
+  },
+  {
+    "id": 2,
+    "title": "Smartphone",
+    "description": "A powerful smartphone with cutting-edge features.",
+    "Price": 899.99
+  },
+  {
+    "id": 3,
+    "title": "Smart Watch",
+    "description": "A smart watch that can be connected to a smartphone via Bluetooth.",
+    "Price": 199.99
+  },
+  {
+    "id": 4,
+    "title": "Monitor",
+    "description": "A 24 inch 4K PC monitor.",
+    "Price": 449.99
+  },
+  {
+    "id": 5,
+    "title": "Headset",
+    "description": "A headset suitable for both podcasting and gaming.",
+    "Price": 99.99
+  }
+]
